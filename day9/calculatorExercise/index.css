@@ -13,8 +13,6 @@ body {
     align-items: center;
     height: 100vh;
 }
-
-/* Calculator container */
 main {
     background-color: #ffffff;
     padding: 30px 35px;
@@ -23,8 +21,6 @@ main {
     text-align: center;
     width: 350px;
 }
-
-/* Header */
 h2 {
     margin-bottom: 25px;
     color: #333333;
